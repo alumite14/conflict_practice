@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Main branch changes
-=======
 Feature branch changes
->>>>>>> origin/main
