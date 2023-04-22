@@ -1,2 +1,2 @@
-Feature bh changes
-tt test
+A branch conflict test だよ～～
+コンフリクト起こしたい侍だよ～～
